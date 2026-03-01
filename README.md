@@ -1,3 +1,3 @@
 # All weather Strategy and corresponding improvement
-Done during my first internship
+My first research in quantitative finance
 
